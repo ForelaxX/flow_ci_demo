@@ -1,0 +1,22 @@
+{
+  "name": "pod_lib_test",
+  "version": "0.1.0",
+  "summary": "A short description of pod_lib_test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/pod_lib_test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CangJie": "helloworldmkv@163.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/pod_lib_test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "pod_lib_test/Classes/**/*"
+}
